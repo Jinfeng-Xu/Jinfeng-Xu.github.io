@@ -441,7 +441,7 @@ hspace="10" wspace="20" src="../images/WeightedGCL.png">
 <span class="conference-label">SIGIR 2025</span>
 </dt>
 <dd><a href="https://arxiv.org/pdf/2504.04443/"><strong>Squeeze and Excitation: A Weighted Graph Contrastive Learning for Collaborative Filtering</strong></a></dd>
-<dd>Zheyu Chen, <strong>Jinfeng Xu</strong>, Yutong Wei, and Ziyue Peng</dd>
+<dd>Zheyu Chen, <strong>Jinfeng Xu  *</strong>, Yutong Wei, and Ziyue Peng</dd>
 <dd> ACM International Conference on Research and Development in Information Retrieval (<strong>SIGIR</strong>), 2025</dd>
 </dl>
 
