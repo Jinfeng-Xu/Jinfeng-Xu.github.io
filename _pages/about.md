@@ -290,8 +290,7 @@ Feel free to contact me via <a href="mailto:jinfeng@connect.hku.hk">Email</a> or
 I am looking for PostDoc opportunities in 26Fall related to Recommendation and Graph Learning,, especially in labs based in the United States or Hong Kong. My research interests include Recommendation System, Data Privacy, Graph Learning, Self-supervised Learning, Computer Vision, and Federated Learning. If our research interests align, please feel free to contact me via <a href="mailto:jinfeng@connect.hku.hk">Email</a> or <a href="https://Jinfeng-Xu.github.io/images/WeChat.jpeg">WeChat</a>.
 </p>
 </div>
-
-
+<hr>
 # 🔥 News
 
 <div style="max-height: 350px; overflow-y: auto; padding: 20px; background: #f8f9fa; border-left: 4px solid #2c3e50; margin: 0px 0;">
@@ -332,26 +331,148 @@ scrollbar-color: #2c3e50 #e9ecef;
 </div>
 
 <br/>
-# 📝 Publications 
+<hr>
+# 📝 Selected Publications ([Full List](https://scholar.google.com/citations?user=-8eQo3UAAAAJ&hl=en))
+**# indicates the authors with equal contributions, and * indicates the corresponding authors.**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
+<div style="text-align: left; margin: 20px 0; font-size: 1.5em; color: #666;">
+2025 
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<dl>
+<dt><img align="left" width="100"
+hspace="10" wspace="20" src="../images/MRS-Survey.png">
+<span class="conference-label">TMM 2025</span>
+</dt>
+<dd><a href="https://arxiv.org/pdf/2502.15711/"><strong>A Survey on Multimodal Recommender Systems: Recent Advances and Future Directions</strong></a></dd>
+<dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Shuo Yang, Jinze Li, Wei Wang, Xiping Hu, Steven Hoi, and Edith Ngai</dd>
+<dd> IEEE Transactions on Multimedia (<strong>TMM</strong>), 2025</dd>
+</dl>
 
+<hr>
+
+<dl>
+<dt><img align="left" width="100"
+hspace="10" wspace="20" src="../images/BSAM.png">
+<span class="conference-label">TKDE 2025</span>
+</dt>
+<dd><a href="https://ieeexplore.ieee.org/abstract/document/11154965/"><strong>Enhancing Robustness and Generalization Capability for Multimodal Recommender Systems via Sharpness-Aware Minimization</strong></a></dd>
+<dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Jinze Li, Shuo Yang, Wei Wang, Xiping Hu, Raymond Chi-Wing Wong, and Edith Ngai</dd>
+<dd> IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>), 2025</dd>
+</dl>
+
+<hr>
+
+<dl>
+<dt><img align="left" width="100"
+hspace="10" wspace="20" src="../images/FourierKAN.png">
+<span class="conference-label">CIKM 2025</span>
+</dt>
+<dd><a href="https://arxiv.org/abs/2406.01034/"><strong>Enhancing Graph Collaborative Filtering with FourierKAN Feature Transformation</strong></a></dd>
+<dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Jinze Li, Shuo Yang, Wei Wang, Xiping Hu, and Edith Ngai</dd>
+<dd> ACM International Conference on Information and Knowledge Management (<strong>CIKM</strong>), 2025</dd>
+</dl>
+
+<hr>
+
+<dl>
+<dt><img align="left" width="100"
+hspace="10" wspace="20" src="../images/HPMRec.png">
+<span class="conference-label">CIKM 2025</span>
+</dt>
+<dd><a href="https://arxiv.org/pdf/2508.10753/"><strong>Hypercomplex Prompt-aware Multimodal Recommendation</strong></a></dd>
+<dd>Zheyu Chen #, <strong>Jinfeng Xu #</strong>, Hewei Wang, Shuo Yang, Zitong Wan and Haibo Hu</dd>
+<dd> ACM International Conference on Information and Knowledge Management (<strong>CIKM</strong>), 2025</dd>
+</dl>
+
+<hr>
+
+<dl>
+<dt><img align="left" width="100"
+hspace="10" wspace="20" src="../images/FastMMRec.png">
+<span class="conference-label">ACM MM 2025</span>
+</dt>
+<dd><a href="https://www.arxiv.org/pdf/2507.18489/"><strong>The Best is Yet to Come: Graph Convolution in the Testing Phase for Multimodal Recommendation</strong></a></dd>
+<dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Shuo Yang, Jinze Li, and Edith Ngai</dd>
+<dd> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2025</dd>
+</dl>
+
+<hr>
+
+<dl>
+<dt><img align="left" width="100"
+hspace="10" wspace="20" src="../images/NLGCL.png">
+<span class="conference-label">RecSys 2025 (<strong>Spotlight Oral</strong>)</span>
+</dt>
+<dd><a href="https://arxiv.org/pdf/2507.07522/"><strong>NLGCL: Naturally Existing Neighbor Layers Graph Contrastive Learning for Recommendation</strong></a></dd>
+<dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Shuo Yang, Jinze Li, Hewei Wang, Wei Wang, Xiping Hu, and Edith Ngai</dd>
+<dd> ACM Conference on Recommender Systems (<strong>RecSys</strong>), 2025</dd>
+</dl>
+
+<hr>
+
+<dl>
+<dt><img align="left" width="100"
+hspace="10" wspace="20" src="../images/MDVT.png">
+<span class="conference-label">KDD 2025</span>
+</dt>
+<dd><a href="https://arxiv.org/pdf/2505.16665/"><strong>MDVT: Enhancing Multimodal Recommendation with Model-Agnostic Multimodal-Driven Virtual Triplets</strong></a></dd>
+<dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Jinze Li, Shuo Yang, Hewei Wang, Yijie Li, Mengran Li, Puzhen Wu, and Edith Ngai</dd>
+<dd> ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>), 2025</dd>
+</dl>
+
+<hr>
+
+<dl>
+<dt><img align="left" width="100"
+hspace="10" wspace="20" src="../images/COHESION.png">
+<span class="conference-label">SIGIR 2025</span>
+</dt>
+<dd><a href="https://arxiv.org/pdf/2504.04452/"><strong>COHESION: Composite Graph Convolutional Network with Dual-Stage Fusion for Multimodal Recommendation</strong></a></dd>
+<dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Wei Wang, Xiping Hu, Sang-Wook Kim, and Edith Ngai</dd>
+<dd> ACM International Conference on Research and Development in Information Retrieval (<strong>SIGIR</strong>), 2025</dd>
+</dl>
+
+<hr>
+
+<dl>
+<dt><img align="left" width="100"
+hspace="10" wspace="20" src="../images/WeightedGCL.png">
+<span class="conference-label">SIGIR 2025</span>
+</dt>
+<dd><a href="https://arxiv.org/pdf/2504.04443/"><strong>Squeeze and Excitation: A Weighted Graph Contrastive Learning for Collaborative Filtering</strong></a></dd>
+<dd>Zheyu Chen, <strong>Jinfeng Xu</strong>, Yutong Wei, and Ziyue Peng</dd>
+<dd> ACM International Conference on Research and Development in Information Retrieval (<strong>SIGIR</strong>), 2025</dd>
+</dl>
+
+<hr>
+
+<dl>
+<dt><img align="left" width="100"
+hspace="10" wspace="20" src="../images/MENTOR.png">
+<span class="conference-label">AAAI 2025</span>
+</dt>
+<dd><a href="https://arxiv.org/pdf/2402.19407/"><strong>MENTOR: Multi-level Self-supervised Learning for Multimodal Recommendation</strong></a></dd>
+<dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Shuo Yang, Jinze Li, Hewei Wang, and Edith Ngai</dd>
+<dd> The Association for the Advancement of Artificial Intelligence (<strong>AAAI</strong>), 2025</dd>
+</dl>
+
+<hr>
+
+
+<dl>
+<dt><img align="left" width="100"
+hspace="10" wspace="20" src="../images/AlignGroup.png">
+<span class="conference-label">CIKM 2024</span>
+</dt>
+<dd><a href="https://arxiv.org/pdf/2504.04452/"><strong>AlignGroup: Learning and Aligning Group Consensus with Member Preferences for Group Recommendation</strong></a></dd>
+<dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Jinze Li, Shuo Yang, Hewei Wang, and Edith Ngai</dd>
+<dd>ACM International Conference on Information and Knowledge Management (<strong>CIKM</strong>), 2024</dd>
+</dl>
+<hr>
 # 🎖 Honors and Awards
 - KDD'25 Outstanding Reviewer (Top 10%)
-
-
+<hr>
 # 📖 Educations
 <div class="education-card">
 <div class="education-info">
@@ -364,7 +485,6 @@ scrollbar-color: #2c3e50 #e9ecef;
 <img src="../images/HKU-logo.png" alt="University of Hong Kong" />
 </div>
 </div> 
-
+<hr>
 # 🙌 Other
 <img src="images/contact.png" width="50%" height="50%" style="display: block; margin: 60px auto 0;"/>
-
