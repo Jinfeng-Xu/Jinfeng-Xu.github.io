@@ -283,15 +283,15 @@ Feel free to contact me via <a href="mailto:jinfeng@connect.hku.hk">Email</a> or
 
 📄 You can download my CV <a href="assets/徐锦峰-CV.pdf" style="color: #0066cc; text-decoration: underline;" target="_blank">here</a>.
 
-
 <div style="background: linear-gradient(135deg, #f3f8ff, #e8f4fd); padding: 20px; border-radius: 10px; margin: 20px 0; border: 2px solid #1976d2; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); position: relative; overflow: hidden;">
 <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.3)); pointer-events: none;"></div>
 <p style="margin: 0; position: relative; z-index: 1;"> <strong style="color: red">🌟 📢 PostDoc Opportunity</strong><br>
-I am looking for PostDoc opportunities in 26Fall related to Recommendation and Graph Learning, especially in labs based in the United States or Hong Kong. My research interests include Recommendation System, Data Privacy, Graph Learning, Self-supervised Learning, Computer Vision, and Federated Learning. If our research interests align, please feel free to contact me via <a href="mailto:jinfeng@connect.hku.hk">Email</a> or <a href="https://Jinfeng-Xu.github.io/images/WeChat.jpeg">WeChat</a>.
+I am looking for PostDoc opportunities in 26Fall related to Recommendation and Graph Learning, especially in labs based in the United States/Hong Kong/Singapore. My research interests include Recommendation System, Data Privacy, Graph Learning, Self-supervised Learning, Computer Vision, and Federated Learning. If our research interests align, please feel free to contact me via <a href="mailto:jinfeng@connect.hku.hk">Email</a> or <a href="https://Jinfeng-Xu.github.io/images/WeChat.jpeg">WeChat</a>.
 </p>
 </div>
 <hr>
 # 🔥 News
+
 
 <div style="max-height: 350px; overflow-y: auto; padding: 20px; background: #f8f9fa; border-left: 4px solid #2c3e50; margin: 0px 0;">
 <style>
@@ -331,13 +331,12 @@ scrollbar-color: #2c3e50 #e9ecef;
 </div>
 
 <br/>
+
 <hr>
 # 📝 Selected Publications ([Full List](https://scholar.google.com/citations?user=-8eQo3UAAAAJ&hl=en))
 **# indicates the authors with equal contributions, and * indicates the corresponding authors.**
 
-<div style="text-align: left; margin: 20px 0; font-size: 1.5em; color: #666;">
-2025 
-</div>
+
 
 <dl>
 <dt><img align="left" width="100"
@@ -398,16 +397,16 @@ hspace="10" wspace="20" src="../images/FastMMRec.png">
 </dl>
 
 <hr>
-
 <dl>
 <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/NLGCL.png">
-<span class="conference-label">RecSys 2025 (<strong>Spotlight Oral</strong>)</span>
+<span class="conference-label">RecSys 2025 (<font color="red">Spotlight Oral</font>)</span>
 </dt>
 <dd><a href="https://arxiv.org/pdf/2507.07522/"><strong>NLGCL: Naturally Existing Neighbor Layers Graph Contrastive Learning for Recommendation</strong></a></dd>
 <dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Shuo Yang, Jinze Li, Hewei Wang, Wei Wang, Xiping Hu, and Edith Ngai</dd>
 <dd> ACM Conference on Recommender Systems (<strong>RecSys</strong>), 2025</dd>
 </dl>
+
 
 <hr>
 
@@ -478,7 +477,7 @@ hspace="10" wspace="20" src="../images/AlignGroup.png">
 <div class="education-info">
 <div class="education-title">
  <strong>2023.09 - 2026.06 (Expected)</strong><br/>
- Phd  , University of Hong Kong
+ PhD , University of Hong Kong
 </div>
 </div>
 <div class="education-logo">
