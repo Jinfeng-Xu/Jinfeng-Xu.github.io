@@ -487,4 +487,4 @@ hspace="10" wspace="20" src="../images/AlignGroup.png">
 </div> 
 <hr>
 # 🙌 Other
-<img src="images/contact.png" width="50%" height="50%" style="display: block; margin: 60px auto 0;"/>
+<img src="images/contact.png" width="100%" height="100%" style="display: block; margin: 60px auto 0;"/>
