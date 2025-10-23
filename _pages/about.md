@@ -476,8 +476,8 @@ hspace="10" wspace="20" src="../images/AlignGroup.png">
 <div class="education-card">
 <div class="education-info">
 <div class="education-title">
- <strong>2023.09 - 2026.06 (Expected)</strong><br/>
- PhD , University of Hong Kong
+ <strong>2023.09 - 2026.07 (Expected)</strong><br/>
+ PhD, University of Hong Kong
 </div>
 </div>
 <div class="education-logo">
@@ -486,4 +486,4 @@ hspace="10" wspace="20" src="../images/AlignGroup.png">
 </div> 
 <hr>
 # 🙌 Other
-<img src="images/contact.png" width="100%" height="100%" style="display: block; margin: 60px auto 0;"/>
+<img src="images/contact.png" width="100%" height="100%" style="display: block; margin: 20px auto 0;"/>
