@@ -321,13 +321,16 @@ scrollbar-color: #2c3e50 #e9ecef;
 }
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+<li><em>2025.11:</em> 📚️ I serve as a reviewer for <strong>WWW 2026 (Full, Short, Web4Good Tracks)</strong>. </li>
 <li><em>2025.11:</em> 🎈 Honored to provide a presentation seminar at Hanyang University. Grateful to <strong>Prof. Sang-Wook Kim</strong> for the invitation! </li>
 <li><em>2025.11:</em> 🎉 One paper on multimodal personalized clustering has been accepted by <strong>AAAI 2026</strong>. </li>
 <li><em>2025.10:</em> 📚️ I serve as a reviewer for <strong>ICLR 2026</strong>. </li>
+  <li><em>2025.10:</em> 📚️ I serve as a reviewer for <strong>ACM TOIT</strong>. </li>
 <li><em>2025.10:</em> 🌐 My new personal academic homepage is now online.</li>
 <li><em>2023.09-2025.10:</em> 🎈 I have published more than 10 papers in top-tier conferences and journals as the first author, including 1 KDD, 2 SIGIR, 1 ACM MM, 1 RecSys (Spotlight Oral), 3 CIKM, 1 AAAI, 1 ICASSP, 1 TKDE, 1 TOIS, 1 TMM, and 1 Information Fusion. </li>
 <li><em>2023.09-2025.10:</em> 🎈 I have also contributed as a co-author to many outstanding works, including NDSS, TDSC, KDD, IROS (Oral), etc. </li>
 <li><em>2023.09-2025.10:</em> 📚️ I have served as a reviewer for over 10 top-tier conferences (e.g., ICLR, NeurIPS, KDD, SIGIR, etc.) and 5 top-tier journals (e.g., TKDE, TOIS, TII, TIT, etc.). Additionally, I was honored as an Outstanding Reviewer and invited as a Session Chair at KDD 2025. </li>
+
 
 </ul>
 </div>
@@ -344,10 +347,11 @@ scrollbar-color: #2c3e50 #e9ecef;
 hspace="10" wspace="20" src="../images/Multi-DProxy.png">
 <span class="conference-label">AAAI 2026</span>
 </dt>
-<dd><a href=""><strong>Multi-modal Dynamic Proxy Learning for Personalized Multiple Clustering</strong></a></dd>
+<dd><a href="https://arxiv.org/pdf/2511.07274"><strong>Multi-modal Dynamic Proxy Learning for Personalized Multiple Clustering</strong></a></dd>
 <dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Shuo Yang, Jinze Li, Ziyue Peng, Zewei Liu, Hewei Wang, Jiayi Zhang, and Edith Ngai</dd>
 <dd> The Association for the Advancement of Artificial Intelligence (<strong>AAAI</strong>), 2026</dd>
 </dl>
+
 
 <hr>
 
