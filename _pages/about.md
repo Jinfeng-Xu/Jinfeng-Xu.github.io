@@ -359,7 +359,7 @@ hspace="10" wspace="20" src="../images/LEAP.png">
 
 <dl>
 <dt><img align="left" width="100"
-hspace="10" wspace="20" src="../images/Vi-MMRec.png">
+hspace="10" wspace="20" src="../images/VI-MMRec.png">
 <span class="conference-label">KDD 2026</span>
 </dt>
 <dd><a href=""><strong>VI-MMRec: Similarity-Aware Training Cost-free Virtual User-Item Interactions for Multimodal Recommendation</strong></a></dd>
