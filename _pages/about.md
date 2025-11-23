@@ -321,9 +321,9 @@ scrollbar-color: #2c3e50 #e9ecef;
 }
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-<li><em>2025.10:</em> 🎉 Two papers on universal graph prompt tuning and mutlimodal recommendation have been accepted by <strong>KDD 2026</strong>. </li>
-<li><em>2025.10:</em> 📚️ I serve as a reviewer for <strong>KBS</strong>. </li>
-<li><em>2025.10:</em> 📚️ I serve as a reviewer for <strong>IEEE WCM</strong>. </li>
+<li><em>2025.11:</em> 🎉 Two papers on universal graph prompt tuning and mutlimodal recommendation have been accepted by <strong>KDD 2026</strong>. </li>
+<li><em>2025.11:</em> 📚️ I serve as a reviewer for <strong>KBS</strong>. </li>
+<li><em>2025.11:</em> 📚️ I serve as a reviewer for <strong>IEEE WCM</strong>. </li>
 <li><em>2025.11:</em> 📚️ I serve as a reviewer for <strong>WWW 2026 (Full, Short, Web4Good Tracks)</strong>. </li>
 <li><em>2025.11:</em> 🎈 Honored to provide a presentation seminar at Hanyang University. Grateful to <strong>Prof. Sang-Wook Kim</strong> for the invitation! </li>
 <li><em>2025.11:</em> 🎉 One paper on multimodal personalized clustering has been accepted by <strong>AAAI 2026</strong>. </li>
