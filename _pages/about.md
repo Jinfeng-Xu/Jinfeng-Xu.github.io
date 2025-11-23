@@ -321,6 +321,7 @@ scrollbar-color: #2c3e50 #e9ecef;
 }
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+<li><em>2025.10:</em> 🎉 Two papers on universal graph prompt tuning and mutlimodal recommendation have been accepted by <strong>KDD 2026</strong>. </li>
 <li><em>2025.10:</em> 📚️ I serve as a reviewer for <strong>KBS</strong>. </li>
 <li><em>2025.10:</em> 📚️ I serve as a reviewer for <strong>IEEE WCM</strong>. </li>
 <li><em>2025.11:</em> 📚️ I serve as a reviewer for <strong>WWW 2026 (Full, Short, Web4Good Tracks)</strong>. </li>
@@ -342,6 +343,32 @@ scrollbar-color: #2c3e50 #e9ecef;
 <hr>
 # 📝 Selected Publications ([Full List](https://scholar.google.com/citations?user=-8eQo3UAAAAJ&hl=en))
 **# indicates the authors with equal contributions, and * indicates the corresponding authors.**
+
+<dl>
+<dt><img align="left" width="100"
+hspace="10" wspace="20" src="../images/LEAP.png">
+<span class="conference-label">KDD 2026</span>
+</dt>
+<dd><a href=""><strong>Learning and Editing Universal Graph Prompt Tuning via Reinforcement Learning</strong></a></dd>
+<dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Shuo Yang, Jinze Li, Hewei Wang, Yijie Li, and Edith Ngai</dd>
+<dd> ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>), 2026</dd>
+</dl>
+
+
+<hr>
+
+<dl>
+<dt><img align="left" width="100"
+hspace="10" wspace="20" src="../images/Vi-MMRec.png">
+<span class="conference-label">KDD 2026</span>
+</dt>
+<dd><a href=""><strong>VI-MMRec: Similarity-Aware Training Cost-free Virtual User-Item Interactions for Multimodal Recommendation</strong></a></dd>
+<dd><strong>Jinfeng Xu</strong>,Zheyu Chen, Shuo Yang, Jinze Li, Zitong Wan, Hewei Wang, Weijie Liu, Yijie Li, and Edith Ngai</dd>
+<dd> ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>), 2026</dd>
+</dl>
+
+
+<hr>
 
 
 <dl>
