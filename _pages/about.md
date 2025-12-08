@@ -321,6 +321,7 @@ scrollbar-color: #2c3e50 #e9ecef;
 }
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+<li><em>2025.12:</em> 🎉 One paper on group recommendation has been accepted by <strong>ACM Transactions on Information Systems (TOIS)</strong>. </li>
 <li><em>2025.11:</em> 📚️ I serve as a reviewer for <strong>Neurocomputing (NEUCOM)</strong>. </li>
 <li><em>2025.11:</em> 📚️ I serve as a reviewer for <strong>Pattern Recognition (PR)</strong>. </li>
 <li><em>2025.11:</em> 🎉 Two papers on universal graph prompt tuning and mutlimodal recommendation have been accepted by <strong>KDD 2026</strong>. </li>
@@ -338,6 +339,7 @@ scrollbar-color: #2c3e50 #e9ecef;
 <li><em>2023.09-2025.10:</em> 📚️ I have served as a reviewer for over 10 top-tier conferences (e.g., ICLR, NeurIPS, KDD, SIGIR, etc.) and 5 top-tier journals (e.g., TKDE, TOIS, TII, TIT, etc.). Additionally, I was honored as an Outstanding Reviewer and invited as a Session Chair at KDD 2025. </li>
 
 
+
 </ul>
 </div>
 
@@ -346,6 +348,19 @@ scrollbar-color: #2c3e50 #e9ecef;
 <hr>
 # 📝 Selected Publications ([Full List](https://scholar.google.com/citations?user=-8eQo3UAAAAJ&hl=en))
 **# indicates the authors with equal contributions, and * indicates the corresponding authors.**
+
+<dl>
+<dt><img align="left" width="100"
+hspace="10" wspace="20" src="../images/DGGVAE.png">
+<span class="conference-label">TOIS 2025</span>
+</dt>
+<dd><a href=""><strong>DGGVAE: Dual-Granularity Graph Variational Auto-Encoder for Group Recommendation</strong></a></dd>
+<dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Jinze Li, Shuo Yang, Wei Wang, Hewei Wang, Yijie Li, Xiping Hu, and Edith Ngai</dd>
+<dd> ACM Transactions on Information Systems (<strong>TOIS</strong>), 2025</dd>
+</dl>
+
+
+<hr>
 
 <dl>
 <dt><img align="left" width="100"
