@@ -273,7 +273,7 @@ color: #2980b9;
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an PhD Student from the University of Hong Kong. My research interests include Recommendation System, Data Privacy, Graph Learning, Self-supervised Learning, Computer Vision, and Federated Learning.
+I am currently an PhD Student from the University of Hong Kong. My research interests include Recommendation, Data Privacy, Graph Learning, Self-supervised Learning, Computer Vision, and Federated Learning.
 
 I look forward to collaborating in the field of Recommendation and Graph Learning.
 
@@ -321,6 +321,7 @@ scrollbar-color: #2c3e50 #e9ecef;
 }
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+<li><em>2026.1:</em> 📚️ I serve as a reviewer for <strong>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</strong>. </li>
 <li><em>2025.12:</em> 📚️ I serve as a reviewer for <strong>Information Processing and Management (IPM)</strong>. </li>
 <li><em>2025.12:</em> 🎉 One paper on group recommendation has been accepted by <strong>ACM Transactions on Information Systems (TOIS)</strong>. </li>
 <li><em>2025.11:</em> 📚️ I serve as a reviewer for <strong>Neurocomputing (NEUCOM)</strong>. </li>
