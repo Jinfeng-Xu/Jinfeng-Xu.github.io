@@ -321,7 +321,7 @@ scrollbar-color: #2c3e50 #e9ecef;
 }
 </style>
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-<li><em>2026.01:</em> 🎉 Two collaborative papers have been accepted by <strong>ICLR 2026</strong>. Congratulations to Jinze and Jianheng! 🎉
+<li><em>2026.01:</em> 🎉 Two collaborative papers have been accepted by <strong>ICLR 2026</strong>. Congratulations to <strong>Jinze</strong> and <strong>Jianheng</strong>! 🎉
 <li><em>2026.01:</em> 📚️ I serve as a reviewer for <strong>ICML 2026</strong>. </li>
 <li><em>2026.01:</em> 📚️ I serve as a reviewer for <strong>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</strong>. </li>
 <li><em>2025.12:</em> 📚️ I serve as a reviewer for <strong>Information Processing and Management (IPM)</strong>. </li>
