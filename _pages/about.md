@@ -323,7 +323,7 @@ scrollbar-color: #2c3e50 #e9ecef;
 
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
 <li><em>2026.02:</em> 📚️ I serve as a PC member for <strong>SIGIR 2026</strong>. </li>
-<li><em>2026.01:</em> 📚️ I serve as a reviewer for <strong>KDD 2026 (Round2)</strong>. </li>
+<li><em>2026.01:</em> 📚️ I serve as a reviewer for <strong>KDD 2026 (Cycle 2)</strong>. </li>
 <li><em>2026.01:</em> 🎉 Two collaborative papers have been accepted by <strong>ICLR 2026</strong>. Congratulations to <strong>Jinze</strong> and <strong>Jianheng</strong>! 🎉
 <li><em>2026.01:</em> 📚️ I serve as a reviewer for <strong>ICML 2026</strong>. </li>
 <li><em>2026.01:</em> 📚️ I serve as a reviewer for <strong>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</strong>. </li>
