@@ -322,6 +322,7 @@ scrollbar-color: #2c3e50 #e9ecef;
 </style>
 
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+<li><em>2026.02:</em> 🎉 One paper on mutlimodal sequential recommendation has been accepted by <strong>ICDE 2026</strong>. </li>
 <li><em>2026.02:</em> 📚️ I serve as a PC member for <strong>ICMR 2026</strong>. </li>
 <li><em>2026.02:</em> 📚️ I serve as a PC member for <strong>SIGIR 2026</strong>. </li>
 <li><em>2026.01:</em> 📚️ I serve as a reviewer for <strong>KDD 2026 (Cycle 2)</strong>. </li>
@@ -349,6 +350,7 @@ scrollbar-color: #2c3e50 #e9ecef;
 
 
 
+
 </ul>
 </div>
 
@@ -360,10 +362,23 @@ scrollbar-color: #2c3e50 #e9ecef;
 
 <dl>
 <dt><img align="left" width="100"
+hspace="10" wspace="20" src="../images/CAMMSR.png">
+<span class="conference-label">ICDE 2026</span>
+</dt>
+<dd><a href=""><strong>CAMMSR: Category-Guided Attentive Mixture of Experts for Multimodal Sequential Recommendation</strong></a></dd>
+<dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Shuo Yang, Jinze Li, Hewei Wang, Yijie Li, Jianheng Tang, Yunhuai Liu, and Edith Ngai</dd>
+<dd> IEEE International Conference on Data Engineering (<strong>ICDE</strong>), 2026</dd>
+</dl>
+
+
+<hr>
+
+<dl>
+<dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/DGGVAE.png">
 <span class="conference-label">TOIS 2025</span>
 </dt>
-<dd><a href=""><strong>DGGVAE: Dual-Granularity Graph Variational Auto-Encoder for Group Recommendation</strong></a></dd>
+<dd><a href="https://dl.acm.org/doi/pdf/10.1145/3785145"><strong>DGGVAE: Dual-Granularity Graph Variational Auto-Encoder for Group Recommendation</strong></a></dd>
 <dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Jinze Li, Shuo Yang, Wei Wang, Hewei Wang, Yijie Li, Xiping Hu, and Edith Ngai</dd>
 <dd> ACM Transactions on Information Systems (<strong>TOIS</strong>), 2025</dd>
 </dl>
@@ -376,7 +391,7 @@ hspace="10" wspace="20" src="../images/DGGVAE.png">
 hspace="10" wspace="20" src="../images/LEAP.png">
 <span class="conference-label">KDD 2026</span>
 </dt>
-<dd><a href=""><strong>Learning and Editing Universal Graph Prompt Tuning via Reinforcement Learning</strong></a></dd>
+<dd><a href="https://arxiv.org/pdf/2512.08763"><strong>Learning and Editing Universal Graph Prompt Tuning via Reinforcement Learning</strong></a></dd>
 <dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Shuo Yang, Jinze Li, Hewei Wang, Yijie Li, and Edith Ngai</dd>
 <dd> ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>), 2026</dd>
 </dl>
@@ -389,7 +404,7 @@ hspace="10" wspace="20" src="../images/LEAP.png">
 hspace="10" wspace="20" src="../images/VI-MMRec.png">
 <span class="conference-label">KDD 2026</span>
 </dt>
-<dd><a href=""><strong>VI-MMRec: Similarity-Aware Training Cost-free Virtual User-Item Interactions for Multimodal Recommendation</strong></a></dd>
+<dd><a href="https://arxiv.org/pdf/2512.08702"><strong>VI-MMRec: Similarity-Aware Training Cost-free Virtual User-Item Interactions for Multimodal Recommendation</strong></a></dd>
 <dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Shuo Yang, Jinze Li, Zitong Wan, Hewei Wang, Weijie Liu, Yijie Li, and Edith Ngai</dd>
 <dd> ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>), 2026</dd>
 </dl>
