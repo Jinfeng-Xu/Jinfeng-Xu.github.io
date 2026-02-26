@@ -322,6 +322,7 @@ scrollbar-color: #2c3e50 #e9ecef;
 </style>
 
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+<li><em>2026.03:</em> 📚️ I serve as a reviewer for <strong>Transactions on Big Data (TBD)</strong>. </li>
 <li><em>2026.02:</em> 🎉 One paper on mutlimodal sequential recommendation has been accepted by <strong>ICDE 2026</strong>. </li>
 <li><em>2026.02:</em> 📚️ I serve as a PC member for <strong>ICMR 2026</strong>. </li>
 <li><em>2026.02:</em> 📚️ I serve as a PC member for <strong>SIGIR 2026</strong>. </li>
