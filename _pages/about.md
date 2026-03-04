@@ -377,11 +377,11 @@ hspace="10" wspace="20" src="../images/CAMMSR.png">
 <dl>
 <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/DGGVAE.png">
-<span class="conference-label">TOIS 2025</span>
+<span class="conference-label">TOIS 2026</span>
 </dt>
 <dd><a href="https://dl.acm.org/doi/pdf/10.1145/3785145"><strong>DGGVAE: Dual-Granularity Graph Variational Auto-Encoder for Group Recommendation</strong></a></dd>
 <dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Jinze Li, Shuo Yang, Wei Wang, Hewei Wang, Yijie Li, Xiping Hu, and Edith Ngai</dd>
-<dd> ACM Transactions on Information Systems (<strong>TOIS</strong>), 2025</dd>
+<dd> ACM Transactions on Information Systems (<strong>TOIS</strong>), 2026</dd>
 </dl>
 
 
@@ -432,11 +432,11 @@ hspace="10" wspace="20" src="../images/Multi-DProxy.png">
 <dl>
 <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/MRS-Survey.png">
-<span class="conference-label">TMM 2025</span>
+<span class="conference-label">TMM 2026</span>
 </dt>
-<dd><a href="https://arxiv.org/pdf/2502.15711/"><strong>A Survey on Multimodal Recommender Systems: Recent Advances and Future Directions</strong></a></dd>
+<dd><a href="https://ieeexplore.ieee.org/abstract/document/11417257"><strong>A Survey on Multimodal Recommender Systems: Recent Advances and Future Directions</strong></a></dd>
 <dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Shuo Yang, Jinze Li, Wei Wang, Xiping Hu, Steven Hoi, and Edith Ngai</dd>
-<dd> IEEE Transactions on Multimedia (<strong>TMM</strong>), 2025</dd>
+<dd> IEEE Transactions on Multimedia (<strong>TMM</strong>), 2026</dd>
 </dl>
 
 <hr>
