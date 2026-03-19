@@ -273,7 +273,9 @@ color: #2980b9;
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an PhD Student from the University of Hong Kong. My research interests include Recommendation, Data Privacy, Graph Learning, Self-supervised Learning, Computer Vision, and Federated Learning.
+I am currently an PhD Student from the University of Hong Kong. My research interests include Recommendation, Graph Learning, Multimodal Understanding, and Data Privacy.
+
+I have extensive research experience and a strong publication record in multimodal recommendation, collaborative filtering, group recommendation, and graph generalization. I have also explored multimodal understanding and the application of graph-based methods to downstream tasks, with several publications in these areas. Currently, I am actively pursuing new directions in reasoning-aware recommendation, agentic recommendation, and graph for scientific discovery.
 
 I look forward to collaborating in the field of Recommendation and Graph Learning.
 
