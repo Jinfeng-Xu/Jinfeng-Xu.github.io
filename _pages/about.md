@@ -283,15 +283,14 @@ Feel free to contact me via <a href="mailto:jinfeng@connect.hku.hk">Email</a> or
 
 <!-- 📄 You can download my CV <a href="assets/徐锦峰-CV.pdf" style="color: #0066cc; text-decoration: underline;" target="_blank">here</a>.-->
 
-<div style="background: linear-gradient(135deg, #f3f8ff, #e8f4fd); padding: 20px; border-radius: 10px; margin: 20px 0; border: 2px solid #1976d2; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); position: relative; overflow: hidden;">
+<!-- <div style="background: linear-gradient(135deg, #f3f8ff, #e8f4fd); padding: 20px; border-radius: 10px; margin: 20px 0; border: 2px solid #1976d2; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); position: relative; overflow: hidden;">
 <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.3)); pointer-events: none;"></div>
 <p style="margin: 0; position: relative; z-index: 1;"> <strong style="color: red">🌟 📢 PostDoc Opportunity</strong><br>
 I am looking for PostDoc opportunities in 26Fall related to Recommendation and Graph Learning, especially in labs based in the United States/Hong Kong/Singapore. My research interests include Recommendation System, Data Privacy, Graph Learning, Self-supervised Learning, Computer Vision, and Federated Learning. If our research interests align, please feel free to contact me via <a href="mailto:jinfeng@connect.hku.hk">Email</a> or <a href="https://Jinfeng-Xu.github.io/images/WeChat.jpeg">WeChat</a>.
 </p>
 </div>
 <hr>
-# 🔥 News
-
+# 🔥 News-->
 
 <div style="max-height: 350px; overflow-y: auto; padding: 20px; background: #f8f9fa; border-left: 4px solid #2c3e50; margin: 0px 0;">
 <style>
