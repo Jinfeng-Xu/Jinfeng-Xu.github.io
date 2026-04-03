@@ -324,7 +324,7 @@ scrollbar-color: #2c3e50 #e9ecef;
 
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
 <li><em>2026.04:</em> 🎉 One paper on mutlimodal recommendation has been accepted by <strong>SIGIR 2026</strong>. </li>
-<li><em>2026.04:</em> 🎉 One conference extension paper on mutlimodal recommendation has been accepted by <strong>TORS 2026</strong>. </li>
+<li><em>2026.04:</em> 🎉 One conference extension paper on mutlimodal recommendation has been accepted by <strong>ACM Transactions on Recommender Systems (TORS)</strong>. </li>
 <li><em>2026.03:</em> 📚️ I serve as a reviewer for <strong>Neural Networks (NEUNET)</strong>. </li>
 <li><em>2026.03:</em> 📚️ I serve as a reviewer for <strong>Expert Systems With Applications (ESWA)</strong>. </li>
 <li><em>2026.03:</em> 📚️ I serve as a reviewer for <strong>ACM MM 2026</strong>. </li>
