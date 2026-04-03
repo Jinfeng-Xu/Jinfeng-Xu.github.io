@@ -323,6 +323,8 @@ scrollbar-color: #2c3e50 #e9ecef;
 </style>
 
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+<li><em>2026.04:</em> 🎉 One paper on mutlimodal recommendation has been accepted by <strong>SIGIR 2026</strong>. </li>
+<li><em>2026.04:</em> 🎉 One conference extension paper on mutlimodal recommendation has been accepted by <strong>TORS 2026</strong>. </li>
 <li><em>2026.03:</em> 📚️ I serve as a reviewer for <strong>Neural Networks (NEUNET)</strong>. </li>
 <li><em>2026.03:</em> 📚️ I serve as a reviewer for <strong>Expert Systems With Applications (ESWA)</strong>. </li>
 <li><em>2026.03:</em> 📚️ I serve as a reviewer for <strong>ACM MM 2026</strong>. </li>
@@ -357,6 +359,7 @@ scrollbar-color: #2c3e50 #e9ecef;
 
 
 
+
 </ul>
 </div>
 
@@ -368,10 +371,21 @@ scrollbar-color: #2c3e50 #e9ecef;
 
 <dl>
 <dt><img align="left" width="100"
+hspace="10" wspace="20" src="../images/SG-URInit.png">
+<span class="conference-label">ICDE 2026</span>
+</dt>
+<dd><a href=""><strong>Well Begun is Half Done: Training-Free and Model-Agnostic Semantically Guaranteed User Representation Initialization for Multimodal Recommendation</strong></a></dd>
+<dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Shuo Yang, Jinze Li, Hewei Wang, Jianheng Tang, Wei Wang, Xiping Hu, and Edith Ngai</dd>
+<dd> ACM International Conference on Research and Development in Information Retrieval (<strong>SIGIR</strong>), 2026</dd>
+</dl>
+
+
+<dl>
+<dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/CAMMSR.png">
 <span class="conference-label">ICDE 2026</span>
 </dt>
-<dd><a href=""><strong>CAMMSR: Category-Guided Attentive Mixture of Experts for Multimodal Sequential Recommendation</strong></a></dd>
+<dd><a href="https://arxiv.org/pdf/2603.04320"><strong>CAMMSR: Category-Guided Attentive Mixture of Experts for Multimodal Sequential Recommendation</strong></a></dd>
 <dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Shuo Yang, Jinze Li, Hewei Wang, Yijie Li, Jianheng Tang, Yunhuai Liu, and Edith Ngai</dd>
 <dd> IEEE International Conference on Data Engineering (<strong>ICDE</strong>), 2026</dd>
 </dl>
