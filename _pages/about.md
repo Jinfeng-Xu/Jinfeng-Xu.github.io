@@ -372,7 +372,7 @@ scrollbar-color: #2c3e50 #e9ecef;
 <dl>
 <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/SG-URInit.png">
-<span class="conference-label">ICDE 2026</span>
+<span class="conference-label">SIGIR 2026</span>
 </dt>
 <dd><a href=""><strong>Well Begun is Half Done: Training-Free and Model-Agnostic Semantically Guaranteed User Representation Initialization for Multimodal Recommendation</strong></a></dd>
 <dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Shuo Yang, Jinze Li, Hewei Wang, Jianheng Tang, Wei Wang, Xiping Hu, and Edith Ngai</dd>
