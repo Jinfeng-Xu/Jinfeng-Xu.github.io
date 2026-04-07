@@ -323,6 +323,7 @@ scrollbar-color: #2c3e50 #e9ecef;
 </style>
 
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+<li><em>2026.04:</em> 📚️ I serve as a reviewer for <strong>IEEE Transactions on Computational Social System (TCSS)</strong>. </li>
 <li><em>2026.04:</em> 🎉 Two collaborative papers have been accepted by <strong>ACL 2026 (main)</strong>. Congratulations to <strong>Jinze Li</strong> and <strong>Wenhao Yuan</strong>! </li>
 <li><em>2026.04:</em> 🎉 One paper on mutlimodal recommendation has been accepted by <strong>SIGIR 2026</strong>. </li>
 <li><em>2026.04:</em> 🎉 One conference extension paper on mutlimodal recommendation has been accepted by <strong>ACM Transactions on Recommender Systems (TORS)</strong>. </li>
