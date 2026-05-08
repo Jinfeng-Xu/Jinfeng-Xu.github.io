@@ -323,6 +323,7 @@ scrollbar-color: #2c3e50 #e9ecef;
 </style>
 
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+<li><em>2026.05:</em> 📚️ I serve as a reviewer for <strong>International Journal of Human-Computer Interaction (HIHC)</strong>. </li>
 <li><em>2026.05:</em> 🎉 One collaborative paper has been accepted by <strong>ICML 2026</strong>. Congratulations to <strong>Jian Chen</strong>! </li>  
 <li><em>2026.04:</em> 📚️ I serve as a reviewer for <strong>IEEE Transactions on Computational Social System (TCSS)</strong>. </li>
 <li><em>2026.04:</em> 🎉 Two collaborative papers have been accepted by <strong>ACL 2026 (main)</strong>. Congratulations to <strong>Jinze Li</strong> and <strong>Wenhao Yuan</strong>! </li>
