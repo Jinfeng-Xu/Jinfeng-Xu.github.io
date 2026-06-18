@@ -323,7 +323,7 @@ scrollbar-color: #2c3e50 #e9ecef;
 </style>
 
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-<li><em>2026.05:</em> 🎉 One collaborative paper has been accepted by <strong>ECCV 2026</strong>. Congratulations to <strong>Wenhao Yuan</strong>! </li>  
+<li><em>2026.06:</em> 🎉 One collaborative paper has been accepted by <strong>ECCV 2026</strong>. Congratulations to <strong>Wenhao Yuan</strong>! </li>  
 <li><em>2026.05</em> 🎉 Our SIGIR 2025 paper (COHESION) was ranked by Paper Digest as the <strong>Top-11 Most Influential Paper</strong> among 345 accepted papers. (<a href="https://www.paperdigest.org/2026/03/most-influential-sigir-papers-2026-03-version/" target="_blank" rel="noopener noreferrer">Source</a>)</li>
 <li><em>2026.05</em> 🎉 Our CIKM 2025 paper (FourierKAN-GCF) was ranked by Paper Digest as the <strong>Top-3 Most Influential Paper</strong> among 628 accepted papers. (<a href="https://www.paperdigest.org/2026/03/most-influential-cikm-papers-2026-03-version/" target="_blank" rel="noopener noreferrer">Source</a>)</li>
 <li><em>2026.05:</em> 📚️ I serve as a reviewer for <strong>International Journal of Human-Computer Interaction (HIHC)</strong>. </li>
