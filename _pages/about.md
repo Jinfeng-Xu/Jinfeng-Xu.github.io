@@ -377,11 +377,10 @@ scrollbar-color: #2c3e50 #e9ecef;
 <hr>
 # 📝 Selected Publications ([Full List](https://scholar.google.com/citations?user=-8eQo3UAAAAJ&hl=en))
 **# indicates the authors with equal contributions, and * indicates the corresponding authors.**
-
 <dl>
 <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/SG-URInit.png">
-<span class="conference-label">SIGIR 2026</span>
+<span class="conference-label">SIGIR 2026 (<font color="red">Oral</font>)</span>
 </dt>
 <dd><a href="https://arxiv.org/pdf/2604.14839"><strong>Well Begun is Half Done: Training-Free and Model-Agnostic Semantically Guaranteed User Representation Initialization for Multimodal Recommendation</strong></a></dd>
 <dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Shuo Yang, Jinze Li, Hewei Wang, Jianheng Tang, Wei Wang, Xiping Hu, and Edith Ngai</dd>
@@ -389,15 +388,17 @@ hspace="10" wspace="20" src="../images/SG-URInit.png">
 </dl>
 
 
+
 <dl>
 <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/CAMMSR.png">
-<span class="conference-label">ICDE 2026</span>
+<span class="conference-label">ICDE 2026 (<font color="red">Oral</font>)</span>
 </dt>
 <dd><a href="https://arxiv.org/pdf/2603.04320"><strong>CAMMSR: Category-Guided Attentive Mixture of Experts for Multimodal Sequential Recommendation</strong></a></dd>
 <dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Shuo Yang, Jinze Li, Hewei Wang, Yijie Li, Jianheng Tang, Yunhuai Liu, and Edith Ngai</dd>
-<dd> IEEE International Conference on Data Engineering (<strong>ICDE</strong>), 2026</dd>
+<dd> IEEE International Conference on Data Engineering (<strong>ICDE</strong>), 2026 </dd>
 </dl>
+
 
 
 <hr>
@@ -427,16 +428,16 @@ hspace="10" wspace="20" src="../images/LEAP.png">
 
 
 <hr>
-
 <dl>
 <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/VI-MMRec.png">
-<span class="conference-label">KDD 2026</span>
+<span class="conference-label">KDD 2026 (<font color="red">Oral</font>)</span>
 </dt>
 <dd><a href="https://arxiv.org/pdf/2512.08702"><strong>VI-MMRec: Similarity-Aware Training Cost-free Virtual User-Item Interactions for Multimodal Recommendation</strong></a></dd>
 <dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Shuo Yang, Jinze Li, Zitong Wan, Hewei Wang, Weijie Liu, Yijie Li, and Edith Ngai</dd>
 <dd> ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>), 2026</dd>
 </dl>
+
 
 
 <hr>
@@ -492,28 +493,28 @@ hspace="10" wspace="20" src="../images/FourierKAN.png">
 </dl>
 
 <hr>
-
 <dl>
 <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/HPMRec.png">
-<span class="conference-label">CIKM 2025</span>
+<span class="conference-label">CIKM 2025 (<font color="red">Oral</font>)</span>
 </dt>
 <dd><a href="https://arxiv.org/pdf/2508.10753"><strong>Hypercomplex Prompt-aware Multimodal Recommendation</strong></a></dd>
 <dd>Zheyu Chen #, <strong>Jinfeng Xu #</strong>, Hewei Wang, Shuo Yang, Zitong Wan and Haibo Hu</dd>
 <dd> ACM International Conference on Information and Knowledge Management (<strong>CIKM</strong>), 2025</dd>
 </dl>
 
-<hr>
 
+<hr>
 <dl>
 <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/FastMMRec.png">
-<span class="conference-label">ACM MM 2025</span>
+<span class="conference-label">ACM MM 2025 (<font color="red">Oral</font>)</span>
 </dt>
 <dd><a href="https://www.arxiv.org/pdf/2507.18489"><strong>The Best is Yet to Come: Graph Convolution in the Testing Phase for Multimodal Recommendation</strong></a></dd>
 <dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Shuo Yang, Jinze Li, and Edith Ngai</dd>
 <dd> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2025</dd>
 </dl>
+
 
 <hr>
 <dl>
@@ -528,28 +529,28 @@ hspace="10" wspace="20" src="../images/NLGCL.png">
 
 
 <hr>
-
 <dl>
 <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/MDVT.png">
-<span class="conference-label">KDD 2025</span>
+<span class="conference-label">KDD 2025 (<font color="red">Oral</font>)</span>
 </dt>
 <dd><a href="https://arxiv.org/abs/2505.16665"><strong>MDVT: Enhancing Multimodal Recommendation with Model-Agnostic Multimodal-Driven Virtual Triplets</strong></a></dd>
 <dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Jinze Li, Shuo Yang, Hewei Wang, Yijie Li, Mengran Li, Puzhen Wu, and Edith Ngai</dd>
 <dd> ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>), 2025</dd>
 </dl>
 
-<hr>
 
+<hr>
 <dl>
 <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/COHESION.png">
-<span class="conference-label">SIGIR 2025</span>
+<span class="conference-label">SIGIR 2025 (<font color="red">Oral</font>)</span>
 </dt>
 <dd><a href="https://arxiv.org/pdf/2504.04452"><strong>COHESION: Composite Graph Convolutional Network with Dual-Stage Fusion for Multimodal Recommendation</strong></a></dd>
 <dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Wei Wang, Xiping Hu, Sang-Wook Kim, and Edith Ngai</dd>
 <dd> ACM International Conference on Research and Development in Information Retrieval (<strong>SIGIR</strong>), 2025</dd>
 </dl>
+
 
 <hr>
 
@@ -581,7 +582,7 @@ hspace="10" wspace="20" src="../images/MENTOR.png">
 <dl>
 <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/AlignGroup.png">
-<span class="conference-label">CIKM 2024</span>
+<span class="conference-label">CIKM 2024 (<font color="red">Oral</font>)</span>
 </dt>
 <dd><a href="https://arxiv.org/pdf/2504.04452"><strong>AlignGroup: Learning and Aligning Group Consensus with Member Preferences for Group Recommendation</strong></a></dd>
 <dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Jinze Li, Shuo Yang, Hewei Wang, and Edith Ngai</dd>
