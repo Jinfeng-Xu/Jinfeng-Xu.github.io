@@ -323,6 +323,7 @@ scrollbar-color: #2c3e50 #e9ecef;
 </style>
 
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+<li><em>2026.06:</em> 📚️ I serve as a PC member for <strong>AAAI 2026</strong>. </li>
 <li><em>2026.06:</em> 🎉 One collaborative paper has been accepted by <strong>ECCV 2026</strong>. Congratulations to <strong>Wenhao Yuan</strong>! </li>  
 <li><em>2026.05</em> 🎉 Our SIGIR 2025 paper (COHESION) was ranked by Paper Digest as the <strong>Top-11 Most Influential Paper</strong> among 345 accepted papers. (<a href="https://www.paperdigest.org/2026/03/most-influential-sigir-papers-2026-03-version/" target="_blank" rel="noopener noreferrer">Source</a>)</li>
 <li><em>2026.05</em> 🎉 Our CIKM 2025 paper (FourierKAN-GCF) was ranked by Paper Digest as the <strong>Top-3 Most Influential Paper</strong> among 628 accepted papers. (<a href="https://www.paperdigest.org/2026/03/most-influential-cikm-papers-2026-03-version/" target="_blank" rel="noopener noreferrer">Source</a>)</li>
@@ -362,6 +363,7 @@ scrollbar-color: #2c3e50 #e9ecef;
 <li><em>2023.09-2025.10:</em> 🎈 I have published more than 10 papers in top-tier conferences and journals as the first author, including 1 KDD, 2 SIGIR, 1 ACM MM, 1 RecSys (Spotlight Oral), 3 CIKM, 1 AAAI, 1 ICASSP, 1 TKDE, 1 TOIS, 1 TMM, and 1 Information Fusion. </li>
 <li><em>2023.09-2025.10:</em> 🎈 I have also contributed as a co-author to many outstanding works, including NDSS, TDSC, KDD, IROS (Oral), etc. </li>
 <li><em>2023.09-2025.10:</em> 📚️ I have served as a reviewer for over 10 top-tier conferences (e.g., ICLR, NeurIPS, KDD, SIGIR, etc.) and 5 top-tier journals (e.g., TKDE, TOIS, TII, TIT, etc.). Additionally, I was honored as an Outstanding Reviewer and invited as a Session Chair at KDD 2025. </li>
+
 
 
 
