@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jinfeng Xu's Homepage"
-description              : "Jinfeng Xu (徐锦峰), a PhD student from University of Hong Kong"
+description              : "Jinfeng Xu (徐锦峰), a PostDoc Researcher from University of British Columbia"
 repository               : "Jinfeng-Xu/Jinfeng-Xu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jinfeng Xu (徐锦峰),"
   avatar           : "images/bio.jpg"
-  bio              : "PhD student from University of Hong Kong"
-  location         : "Hong Kong, China"
+  bio              : "PostDoc Researcher from University of British Columbia"
+  location         : "Vancouver, Canada | Hong Kong, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=-8eQo3UAAAAJ&hl=en"
