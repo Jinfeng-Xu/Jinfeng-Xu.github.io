@@ -586,6 +586,9 @@ hspace="10" wspace="20" src="../images/AlignGroup.png">
 </dl>
 <hr>
 # 🎖 Honors and Awards
+- CIKM'25 Top-3 Most Influential Paper (3/628)
+- SIGIR'25 Top-11 Most Influential Paper (11/345)
+- RecSys'25 Spotlight Oral
 - KDD'25 Outstanding Reviewer (Top 10%)
 <hr>
 # 📖 Educations
@@ -603,3 +606,4 @@ hspace="10" wspace="20" src="../images/AlignGroup.png">
 <hr>
 # 🙌 Other
 <img src="images/contact.png" width="100%" height="100%" style="display: block; margin: 20px auto 0;"/>
+
