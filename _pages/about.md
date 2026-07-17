@@ -273,24 +273,16 @@ color: #2980b9;
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an PhD Student from the University of Hong Kong. My research interests include Recommendation, Graph Learning, Multimodal Understanding, and Data Privacy.
 
-I have extensive research experience and a strong publication record in multimodal recommendation, collaborative filtering, group recommendation, and graph generalization. I have also explored multimodal understanding and the application of graph-based methods to downstream tasks, with several publications in these areas. Currently, I am actively pursuing new directions in reasoning-aware recommendation, agentic recommendation, and graph for scientific discovery.
 
-I look forward to collaborating in the field of Recommendation and Graph Learning.
+I am currently a Postdoctoral Researcher at the University of British Columbia, working under the supervision of <a href="https://people.ece.ubc.ca/~vleung/">Prof. Victor C. M. Leung</a>. Prior to this, I received my Ph.D. degree from the University of Hong Kong in 2026, where I was advised by  <a href="https://ece.hku.hk/people/echngai//">Prof. Edith C. H. Ngai</a> and co-advised by  <a href="https://xjqi.github.io/">Prof. Xiaojuan Qi</a>.
 
-I am also seeking self-motivated collaborators.
+I have extensive research experience and a strong publication record in recommendation and graph learning. I have also explored multimodal understanding and the application of graph-based methods to downstream tasks, with several publications in these areas. Currently, I am actively pursuing new directions in graph learning for scientific discovery and generative recommendation.
+
+I look forward to academic collaborations and enjoy making new friends.
 
 Feel free to contact me via <a href="mailto:jinfeng@connect.hku.hk">Email</a> or <a href="https://Jinfeng-Xu.github.io/images/WeChat.jpeg">WeChat</a>. 
 
-<!-- 📄 You can download my CV <a href="assets/徐锦峰-CV.pdf" style="color: #0066cc; text-decoration: underline;" target="_blank">here</a>.-->
-
-<!-- <div style="background: linear-gradient(135deg, #f3f8ff, #e8f4fd); padding: 20px; border-radius: 10px; margin: 20px 0; border: 2px solid #1976d2; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); position: relative; overflow: hidden;">
-<div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.3)); pointer-events: none;"></div>
-<p style="margin: 0; position: relative; z-index: 1;"> <strong style="color: red">🌟 📢 PostDoc Opportunity</strong><br>
-I am looking for PostDoc opportunities in 26Fall related to Recommendation and Graph Learning, especially in labs based in the United States/Hong Kong/Singapore. My research interests include Recommendation System, Data Privacy, Graph Learning, Self-supervised Learning, Computer Vision, and Federated Learning. If our research interests align, please feel free to contact me via <a href="mailto:jinfeng@connect.hku.hk">Email</a> or <a href="https://Jinfeng-Xu.github.io/images/WeChat.jpeg">WeChat</a>.
-</p>
-</div>-->
 <hr>
 # 🔥 News
 
@@ -323,6 +315,7 @@ scrollbar-color: #2c3e50 #e9ecef;
 </style>
 
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+<li><em>2026.07:</em> 🎉 One paper on mutlimodal recommendation has been accepted by <strong>ACM MM 2026</strong>. </li>
 <li><em>2026.06:</em> 📚️ I serve as a PC member for <strong>AAAI 2026</strong>. </li>
 <li><em>2026.06:</em> 🎉 One collaborative paper has been accepted by <strong>ECCV 2026</strong>. Congratulations to <strong>Wenhao Yuan</strong>! </li>  
 <li><em>2026.05</em> 🎉 Our SIGIR 2025 paper (COHESION) was ranked by Paper Digest as the <strong>Top-11 Most Influential Paper</strong> among 345 accepted papers. (<a href="https://www.paperdigest.org/2026/03/most-influential-sigir-papers-2026-03-version/" target="_blank" rel="noopener noreferrer">Source</a>)</li>
@@ -363,6 +356,7 @@ scrollbar-color: #2c3e50 #e9ecef;
 <li><em>2023.09-2025.10:</em> 🎈 I have published more than 10 papers in top-tier conferences and journals as the first author, including 1 KDD, 2 SIGIR, 1 ACM MM, 1 RecSys (Spotlight Oral), 3 CIKM, 1 AAAI, 1 ICASSP, 1 TKDE, 1 TOIS, 1 TMM, and 1 Information Fusion. </li>
 <li><em>2023.09-2025.10:</em> 🎈 I have also contributed as a co-author to many outstanding works, including NDSS, TDSC, KDD, IROS (Oral), etc. </li>
 <li><em>2023.09-2025.10:</em> 📚️ I have served as a reviewer for over 10 top-tier conferences (e.g., ICLR, NeurIPS, KDD, SIGIR, etc.) and 5 top-tier journals (e.g., TKDE, TOIS, TII, TIT, etc.). Additionally, I was honored as an Outstanding Reviewer and invited as a Session Chair at KDD 2025. </li>
+
 
 
 
@@ -609,4 +603,3 @@ hspace="10" wspace="20" src="../images/AlignGroup.png">
 <hr>
 # 🙌 Other
 <img src="images/contact.png" width="100%" height="100%" style="display: block; margin: 20px auto 0;"/>
-
