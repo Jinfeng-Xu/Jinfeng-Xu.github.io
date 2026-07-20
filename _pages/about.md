@@ -274,8 +274,7 @@ color: #2980b9;
 <span class='anchor' id='about-me'></span>
 
 
-
-I am currently a Postdoctoral Researcher at the University of British Columbia, working under the supervision of <a href="https://people.ece.ubc.ca/~vleung/">Prof. Victor C. M. Leung</a>. Prior to this, I received my Ph.D. degree from the University of Hong Kong in 2026, where I was advised by  <a href="https://ece.hku.hk/people/echngai//">Prof. Edith C. H. Ngai</a> and co-advised by  <a href="https://xjqi.github.io/">Prof. Xiaojuan Qi</a>.
+I received my Ph.D. degree from the University of Hong Kong in 2026, where I was advised by  <a href="https://ece.hku.hk/people/echngai//">Prof. Edith C. H. Ngai</a> and co-advised by  <a href="https://xjqi.github.io/">Prof. Xiaojuan Qi</a>.
 
 I have extensive research experience and a strong publication record in recommendation and graph learning. I have also explored multimodal understanding and the application of graph-based methods to downstream tasks, with several publications in these areas. Currently, I am actively pursuing new directions in graph learning for scientific discovery and generative recommendation.
 
@@ -606,4 +605,3 @@ hspace="10" wspace="20" src="../images/AlignGroup.png">
 <hr>
 # 🙌 Other
 <img src="images/contact.png" width="100%" height="100%" style="display: block; margin: 20px auto 0;"/>
-
