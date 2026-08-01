@@ -374,6 +374,18 @@ scrollbar-color: #2c3e50 #e9ecef;
 **# indicates the authors with equal contributions, and * indicates the corresponding authors.**
 <dl>
 <dt><img align="left" width="100"
+hspace="10" wspace="20" src="../images/IIMRec.png">
+<span class="conference-label">ACM MM 2025 </span>
+</dt>
+<dd><a href="https://arxiv.org/pdf/2607.24607"><strong>One Graph, Multiple Gains: Single High-Quality Item-Item Graph for Multimodal Recommendation</strong></a></dd>
+<dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Ziyue Peng, Shuo Yang, Jinze Li, Zewei Liu, Shujie Li, Yipeng Du, and Edith Ngai</dd>
+<dd> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2025</dd>
+</dl>
+
+
+
+<dl>
+<dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/SG-URInit.png">
 <span class="conference-label">SIGIR 2026 (<font color="red">Oral</font>)</span>
 </dt>
@@ -503,7 +515,7 @@ hspace="10" wspace="20" src="../images/HPMRec.png">
 <dl>
 <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/FastMMRec.png">
-<span class="conference-label">ACM MM 2025 (<font color="red">Oral</font>)</span>
+<span class="conference-label">ACM MM 2025 </span>
 </dt>
 <dd><a href="https://www.arxiv.org/pdf/2507.18489"><strong>The Best is Yet to Come: Graph Convolution in the Testing Phase for Multimodal Recommendation</strong></a></dd>
 <dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Shuo Yang, Jinze Li, and Edith Ngai</dd>
@@ -605,3 +617,4 @@ hspace="10" wspace="20" src="../images/AlignGroup.png">
 <hr>
 # 🙌 Other
 <img src="images/contact.png" width="100%" height="100%" style="display: block; margin: 20px auto 0;"/>
+
