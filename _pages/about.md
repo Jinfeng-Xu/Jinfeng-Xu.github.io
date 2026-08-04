@@ -375,7 +375,7 @@ scrollbar-color: #2c3e50 #e9ecef;
 <dl>
 <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/IIMRec.png">
-<span class="conference-label">ACM MM 2025 </span>
+<span class="conference-label">ACM MM 2026 </span>
 </dt>
 <dd><a href="https://arxiv.org/pdf/2607.24607"><strong>One Graph, Multiple Gains: Single High-Quality Item-Item Graph for Multimodal Recommendation</strong></a></dd>
 <dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Ziyue Peng, Shuo Yang, Jinze Li, Zewei Liu, Shujie Li, Yipeng Du, and Edith Ngai</dd>
