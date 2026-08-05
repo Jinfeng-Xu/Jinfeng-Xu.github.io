@@ -314,6 +314,7 @@ scrollbar-color: #2c3e50 #e9ecef;
 </style>
 
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+<li><em>2026.08:</em> 📚️ I serve as a reviewer for <strong>KDD 2027 (Cycle 1)</strong>. </li>
 <li><em>2026.07:</em> 🎉 One paper on mutlimodal recommendation has been accepted by <strong>ACM MM 2026</strong>. </li>
 <li><em>2026.06:</em> 📚️ I serve as a PC member for <strong>AAAI 2026</strong>. </li>
 <li><em>2026.06:</em> 🎉 One collaborative paper has been accepted by <strong>ECCV 2026</strong>. Congratulations to <strong>Wenhao Yuan</strong>! </li>  
