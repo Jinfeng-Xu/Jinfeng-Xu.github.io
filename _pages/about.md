@@ -314,6 +314,8 @@ scrollbar-color: #2c3e50 #e9ecef;
 </style>
 
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+<li><em>2026.08:</em> 🎉 Two collaborative papers have been accepted by <strong>CIKM 2026</strong>. Congratulations to <strong>Wenhao Yuan</strong> and <strong>Shujie Li</strong>! </li>
+<li><em>2026.08:</em> 🎉 One paper on recommendation has been accepted by <strong>CIKM 2026</strong>. </li>
 <li><em>2026.08:</em> 📚️ I serve as a reviewer for <strong>Information Fusion (INFFUS)</strong>. </li>
 <li><em>2026.08:</em> 📚️ I serve as a reviewer for <strong>KDD 2027 (Cycle 1)</strong>. </li>
 <li><em>2026.07:</em> 🎉 One paper on mutlimodal recommendation has been accepted by <strong>ACM MM 2026</strong>. </li>
