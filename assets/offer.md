@@ -1,11 +1,8 @@
 ---
-permalink: /
-title: ""
+permalink: /offer/
+title: "Offers"
 excerpt: ""
 author_profile: true
-redirect_from: 
-- /about/
-- /about.html
 ---
 
 <style>

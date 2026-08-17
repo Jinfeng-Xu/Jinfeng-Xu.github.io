@@ -622,3 +622,7 @@ hspace="10" wspace="20" src="../images/AlignGroup.png">
 <hr>
 # 🙌 Other
 <img src="images/contact.png" width="100%" height="100%" style="display: block; margin: 20px auto 0;"/>
+
+<p style="margin-top: 20px; text-align: center;">
+  <a href="{{ '/offer/' | relative_url }}">Offer Page</a>
+</p>
