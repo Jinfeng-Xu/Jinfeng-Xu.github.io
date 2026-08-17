@@ -2,7 +2,8 @@
 permalink: /offer/
 title: "Offers"
 excerpt: ""
-author_profile: true
+layout: null
+author_profile: false
 ---
 
 <style>
