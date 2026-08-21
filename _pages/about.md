@@ -314,6 +314,7 @@ scrollbar-color: #2c3e50 #e9ecef;
 </style>
 
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+<li><em>2026.08:</em> 🎉 Two collaborative papers have been accepted by <strong>ENMLP 2026 (one main and one findings)</strong>. Congratulations to <strong>Weijie Liu</strong> and <strong>Wenhao Yuan</strong>! </li>
 <li><em>2026.08:</em> 📚️ I serve as a reviewer for <strong>IEEE Internet of Things Journal (IoTJ)</strong>. </li>
 <li><em>2026.08:</em> 🎉 Two collaborative papers have been accepted by <strong>CIKM 2026</strong>. Congratulations to <strong>Wenhao Yuan</strong> and <strong>Shujie Li</strong>! </li>
 <li><em>2026.08:</em> 🎉 One paper on recommendation has been accepted by <strong>CIKM 2026</strong>. </li>
