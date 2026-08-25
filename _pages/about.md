@@ -622,8 +622,16 @@ hspace="10" wspace="20" src="../images/AlignGroup.png">
 </div> 
 <hr>
 # 🙌 Other
-<img src="images/contact.png" width="100%" height="100%" style="display: block; margin: 20px auto 0;"/>
+<div style="display: flex; gap: 16px; justify-content: center; align-items: stretch; margin-top: 20px;">
+  <img src="images/contact1.png" style="display: block; width: calc(50% - 8px); height: auto;"/>
+  <img src="images/contact2.png" style="display: block; width: calc(50% - 8px); height: auto;"/>
+</div>
 
 <p style="margin-top: 20px; text-align: center;">
-  <a href="{{ '/offer/' | relative_url }}">Offer Page</a>
+  <a
+    href="{{ '/offer/' | relative_url }}"
+    style="color: transparent; text-decoration: none; padding: 4px 8px;"
+    onmouseover="this.style.backgroundColor='#2563eb'; this.style.color='white';"
+    onmouseout="this.style.backgroundColor='transparent'; this.style.color='transparent';"
+  >Offer Page</a>
 </p>
