@@ -314,6 +314,7 @@ scrollbar-color: #2c3e50 #e9ecef;
 </style>
 
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
+<li><em>2026.10:</em> 🎉 One collaborative paper has been accepted by <strong>TIFS</strong>. Congratulations to <strong>Shuo Yang</strong>! </li>  
 <li><em>2026.09:</em> 🎉 One collaborative paper has been accepted by <strong>NeurIPS 2026 (Spotlight - Top 3.7% of all accepted papers)</strong>. Congratulations to <strong>Jinze Li</strong>! </li>  
 <li><em>2026.09:</em> 📚️ I serve as a reviewer for <strong>VLDB Journal (VLDBJ)</strong>. </li>
 <li><em>2026.09:</em> 🎉 One conference extension paper on mutlimodal recommendation has been accepted by <strong>ACM Transactions on Recommender Systems (TORS - Highlights of SIGIR 25)</strong>. </li>
