@@ -396,7 +396,7 @@ hspace="10" wspace="20" src="../images/BRAVE.png">
 </dt>
 <dd><a href="https://arxiv.org/pdf/2611.19847v1"><strong>Reflection Is Not Always Worth It: Budgeted Reflection Allocation for Recommendation Agents</strong></a></dd>
 <dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Ziyue Peng, Jianheng Tang, Zheng Lin, Wenhao Yuan, Jian Chen, Shujie Li, and Victor Leung</dd>
-<dd> ACM International Conference on Web Search and Data Mining (<strong>WSDm</strong>), 2027</dd>
+<dd> ACM International Conference on Web Search and Data Mining (<strong>WSDM</strong>), 2027</dd>
 </dl>
 
 
@@ -407,7 +407,7 @@ hspace="10" wspace="20" src="../images/DIGCN.png">
 </dt>
 <dd><a href="https://arxiv.org/pdf/2611.19974v1"><strong>Take a Step Back: A Dual-Granularity Raw Feature Empowered Intermediate Fusion Graph Convolutional Network for Multimodal Recommendation</strong></a></dd>
 <dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Shuo Yang, Jinze Li, Wenhao Yuan, Ziyue Peng, Puzhen Wu, Shujie Li, Jian Chen, Zheng Lin, Edith Ngai</dd>
-<dd> ACM International Conference on Web Search and Data Mining (<strong>WSDm</strong>), 2027</dd>
+<dd> ACM International Conference on Web Search and Data Mining (<strong>WSDM</strong>), 2027</dd>
 </dl>
 
 
