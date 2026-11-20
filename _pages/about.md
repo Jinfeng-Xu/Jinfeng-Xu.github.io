@@ -395,7 +395,7 @@ hspace="10" wspace="20" src="../images/BRAVE.png">
 <span class="conference-label">WSDM 2027 (<font color="red">Oral</font>)</span>
 </dt>
 <dd><a href="https://arxiv.org/pdf/2611.19847v1"><strong>Reflection Is Not Always Worth It: Budgeted Reflection Allocation for Recommendation Agents</strong></a></dd>
-<dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Ziyue Peng, Jianheng Tang, Zheng Lin, Wenhao Yuan, Jian Chen, Shujie Li, and Victor Leung</dd>
+<dd><strong>Jinfeng Xu *</strong>, Zheyu Chen, Ziyue Peng, Jianheng Tang, Zheng Lin, Wenhao Yuan, Jian Chen, Shujie Li, and Victor Leung</dd>
 <dd> ACM International Conference on Web Search and Data Mining (<strong>WSDM</strong>), 2027</dd>
 </dl>
 
