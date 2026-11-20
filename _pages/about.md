@@ -316,7 +316,7 @@ scrollbar-color: #2c3e50 #e9ecef;
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
 <li><em>2026.11:</em> 📚️ I serve as a reviewer for <strong>WWW  2027</strong>. </li>
 <li><em>2026.11:</em> 🎉 One paper on generative recommendation has been accepted by <strong>KDD 2027</strong>!</li>
-<li><em>2026.11:</em> 🎉 Two papers on mutlimodal recommendation and recommender agent have been accepted by <strong>WSDM 2027 (one main and one findings)</strong>!</li>
+<li><em>2026.11:</em> 🎉 Two papers on mutlimodal recommendation and recommender agent have been accepted by <strong>WSDM 2027 (one main (<font color="red">Oral</font>) and one findings)</strong>!</li>
 <li><em>2026.10:</em> 🎉 One collaborative paper has been accepted by <strong> IEEE Transactions on Information Forensics and Security (TIFS)</strong>. Congratulations to <strong>Shuo Yang</strong>! </li>  
 <li><em>2026.09:</em> 🎉 One collaborative paper has been accepted by <strong>NeurIPS 2026 (Spotlight - Top 3.7% of all accepted papers)</strong>. Congratulations to <strong>Jinze Li</strong>! </li>  
 <li><em>2026.09:</em> 📚️ I serve as a reviewer for <strong>VLDB Journal (VLDBJ)</strong>. </li>
