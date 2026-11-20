@@ -318,7 +318,7 @@ scrollbar-color: #2c3e50 #e9ecef;
 <li><em>2026.11:</em> 🎉 One paper on generative recommendation has been accepted by <strong>KDD 2027</strong>!</li>
 <li><em>2026.11:</em> 🎉 Two papers on mutlimodal recommendation and recommender agent have been accepted by <strong>WSDM 2027 (one main (<font color="red">Oral</font>) and one findings)</strong>!</li>
 <li><em>2026.10:</em> 🎉 One collaborative paper has been accepted by <strong> IEEE Transactions on Information Forensics and Security (TIFS)</strong>. Congratulations to <strong>Shuo Yang</strong>! </li>  
-<li><em>2026.09:</em> 🎉 One collaborative paper has been accepted by <strong>NeurIPS 2026 (Spotlight - Top 3.7% of all accepted papers)</strong>. Congratulations to <strong>Jinze Li</strong>! </li>  
+<li><em>2026.09:</em> 🎉 One collaborative paper has been accepted by <strong>NeurIPS 2026 (<font color="red">Spotlight - Top 3.7% of all accepted papers</font>)</strong>. Congratulations to <strong>Jinze Li</strong>! </li>  
 <li><em>2026.09:</em> 📚️ I serve as a reviewer for <strong>VLDB Journal (VLDBJ)</strong>. </li>
 <li><em>2026.09:</em> 🎉 One conference extension paper on mutlimodal recommendation has been accepted by <strong>ACM Transactions on Recommender Systems (TORS - Highlights of SIGIR 25)</strong>. </li>
 <li><em>2026.09:</em> 📚️ I serve as a reviewer for <strong>ICLR 2027</strong>. </li>
@@ -337,7 +337,7 @@ scrollbar-color: #2c3e50 #e9ecef;
 <li><em>2026.05:</em> 🎉 One collaborative paper has been accepted by <strong>ICML 2026</strong>. Congratulations to <strong>Jian Chen</strong>! </li>  
 <li><em>2026.04:</em> 📚️ I serve as a reviewer for <strong>IEEE Transactions on Computational Social System (TCSS)</strong>. </li>
 <li><em>2026.04:</em> 🎉 Two collaborative papers have been accepted by <strong>ACL 2026 (main)</strong>. Congratulations to <strong>Jinze Li</strong> and <strong>Wenhao Yuan</strong>! </li>
-<li><em>2026.04:</em> 🎉 One paper on mutlimodal recommendation has been accepted by <strong>SIGIR 2026</strong>. </li>
+<li><em>2026.04:</em> 🎉 One paper on mutlimodal recommendation has been accepted by <strong>SIGIR 2026  (<font color="red">Oral</font>)</strong>. </li>
 <li><em>2026.04:</em> 🎉 One conference extension paper on mutlimodal recommendation has been accepted by <strong>ACM Transactions on Recommender Systems (TORS - Highlights of RecSys 25)</strong>. </li>
 <li><em>2026.03:</em> 🎉 One paper supervised by me as the corresponding author has been accepted by <strong>CVPR 2026 (findings)</strong>. Congratulations to <strong>Ge Wang</strong>! </li>
 <li><em>2026.03:</em> 📚️ I serve as a reviewer for <strong>Neural Networks (NEUNET)</strong>. </li>
@@ -345,7 +345,7 @@ scrollbar-color: #2c3e50 #e9ecef;
 <li><em>2026.03:</em> 📚️ I serve as a reviewer for <strong>ACM MM 2026</strong>. </li>
 <li><em>2026.03:</em> 📚️ I serve as a reviewer for <strong>ECCV 2026</strong>. </li>
 <li><em>2026.03:</em> 📚️ I serve as a reviewer for <strong>IEEE Transactions on Big Data (TBD)</strong>. </li>
-<li><em>2026.02:</em> 🎉 One paper on mutlimodal sequential recommendation has been accepted by <strong>ICDE 2026</strong>. </li>
+<li><em>2026.02:</em> 🎉 One paper on mutlimodal sequential recommendation has been accepted by <strong>ICDE 2026  (<font color="red">Oral</font>)</strong>. </li>
 <li><em>2026.02:</em> 📚️ I serve as a PC member for <strong>ICMR 2026</strong>. </li>
 <li><em>2026.02:</em> 📚️ I serve as a PC member for <strong>SIGIR 2026</strong>. </li>
 <li><em>2026.01:</em> 📚️ I serve as a reviewer for <strong>KDD 2026 (Cycle 2)</strong>. </li>
@@ -356,7 +356,7 @@ scrollbar-color: #2c3e50 #e9ecef;
 <li><em>2025.12:</em> 🎉 One paper on group recommendation has been accepted by <strong>ACM Transactions on Information Systems (TOIS)</strong>. </li>
 <li><em>2025.11:</em> 📚️ I serve as a reviewer for <strong>Neurocomputing (NEUCOM)</strong>. </li>
 <li><em>2025.11:</em> 📚️ I serve as a reviewer for <strong>Pattern Recognition (PR)</strong>. </li>
-<li><em>2025.11:</em> 🎉 Two papers on universal graph prompt tuning and mutlimodal recommendation have been accepted by <strong>KDD 2026</strong>. </li>
+<li><em>2025.11:</em> 🎉 Two papers on universal graph prompt tuning and mutlimodal recommendation have been accepted by <strong>KDD 2026 (including one  (<font color="red">Oral</font>))</strong>. </li>
 <li><em>2025.11:</em> 📚️ I serve as a reviewer for <strong>Kwowledge-Based System (KBS)</strong>. </li>
 <li><em>2025.11:</em> 📚️ I serve as a reviewer for <strong>IEEE Wireless Communications (IEEE WCM)</strong>. </li>
 <li><em>2025.11:</em> 📚️ I serve as a reviewer for <strong>WWW 2026 (Full, Short, Web4Good Tracks)</strong>. </li>
