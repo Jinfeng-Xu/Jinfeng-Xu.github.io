@@ -318,7 +318,7 @@ scrollbar-color: #2c3e50 #e9ecef;
 <li><em>2026.11:</em> 🎉 One paper on generative recommendation has been accepted by <strong>KDD 2027</strong>!</li>
 <li><em>2026.11:</em> 🎉 Two papers on mutlimodal recommendation and recommender agent have been accepted by <strong>WSDM 2027 (one main (<font color="red">Oral</font>) and one findings)</strong>!</li>
 <li><em>2026.10:</em> 🎉 One collaborative paper has been accepted by <strong> IEEE Transactions on Information Forensics and Security (TIFS)</strong>. Congratulations to <strong>Shuo Yang</strong>! </li>  
-<li><em>2026.09:</em> 🎉 One collaborative paper has been accepted by <strong>NeurIPS 2026 (<font color="red">Spotlight - Top 3.7% of all accepted papers</font>)</strong>. Congratulations to <strong>Jinze Li</strong>! </li>  
+<li><em>2026.09:</em> 🎉 One collaborative paper has been accepted by <strong>NeurIPS 2026 (<font color="red">Spotlight</font> - Top 3.7% of all accepted papers)</strong>. Congratulations to <strong>Jinze Li</strong>! </li>  
 <li><em>2026.09:</em> 📚️ I serve as a reviewer for <strong>VLDB Journal (VLDBJ)</strong>. </li>
 <li><em>2026.09:</em> 🎉 One conference extension paper on mutlimodal recommendation has been accepted by <strong>ACM Transactions on Recommender Systems (TORS - Highlights of SIGIR 25)</strong>. </li>
 <li><em>2026.09:</em> 📚️ I serve as a reviewer for <strong>ICLR 2027</strong>. </li>
@@ -366,7 +366,7 @@ scrollbar-color: #2c3e50 #e9ecef;
 <li><em>2025.10:</em> 📚️ I serve as a reviewer for <strong>ACM Transactions on Knowledge Discovery from Data (ACM TKDD)</strong>. </li>
 <li><em>2025.10:</em> 📚️ I serve as a reviewer for <strong>ACM Transactions on Internet Technology (ACM TOIT)</strong>. </li>
 <li><em>2025.10:</em> 🌐 My new personal academic homepage is now online.</li>
-<li><em>2023.09-2025.10:</em> 🎈 I have published more than 10 papers in top-tier conferences and journals as the first author, including 1 KDD, 2 SIGIR, 1 ACM MM, 1 RecSys (Spotlight Oral), 3 CIKM, 1 AAAI, 1 ICASSP, 1 TKDE, 1 TOIS, 1 TMM, and 1 Information Fusion. </li>
+<li><em>2023.09-2025.10:</em> 🎈 I have published more than 10 papers in top-tier conferences and journals as the first author, including 1 KDD (<font color="red">Oral</font>), 2 SIGIR (<font color="red">Oral</font>), 1 ACM MM, 1 RecSys (Spotlight Oral), 3 CIKM (including two <font color="red">Oral</font>), 1 AAAI, 1 ICASSP, 1 TKDE, 1 TOIS, 1 TMM, and 1 Information Fusion. </li>
 <li><em>2023.09-2025.10:</em> 🎈 I have also contributed as a co-author to many outstanding works, including NDSS, TDSC, KDD, IROS (Oral), etc. </li>
 <li><em>2023.09-2025.10:</em> 📚️ I have served as a reviewer for over 10 top-tier conferences (e.g., ICLR, NeurIPS, KDD, SIGIR, etc.) and 5 top-tier journals (e.g., TKDE, TOIS, TII, TIT, etc.). Additionally, I was honored as an Outstanding Reviewer and invited as a Session Chair at KDD 2025. </li>
 </ul>
@@ -388,14 +388,38 @@ scrollbar-color: #2c3e50 #e9ecef;
 <hr>
 # 📝 Selected Publications ([Full List](https://scholar.google.com/citations?user=-8eQo3UAAAAJ&hl=en))
 **# indicates the authors with equal contributions, and * indicates the corresponding authors.**
+
+<dl>
+<dt><img align="left" width="100"
+hspace="10" wspace="20" src="../images/BRAVE.png">
+<span class="conference-label">WSDM 2027 (<font color="red">Oral</font>)</span>
+</dt>
+<dd><a href="https://arxiv.org/pdf/2611.19847v1"><strong>Reflection Is Not Always Worth It: Budgeted Reflection Allocation for Recommendation Agents</strong></a></dd>
+<dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Ziyue Peng, Jianheng Tang, Zheng Lin, Wenhao Yuan, Jian Chen, Shujie Li, and Victor Leung</dd>
+<dd> ACM International Conference on Web Search and Data Mining (<strong>WSDm</strong>), 2027</dd>
+</dl>
+
+
+<dl>
+<dt><img align="left" width="100"
+hspace="10" wspace="20" src="../images/DIGCN.png">
+<span class="conference-label"> WSDM 2027 </span>
+</dt>
+<dd><a href="https://arxiv.org/pdf/2611.19974v1"><strong>Take a Step Back: A Dual-Granularity Raw Feature Empowered Intermediate Fusion Graph Convolutional Network for Multimodal Recommendation</strong></a></dd>
+<dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Shuo Yang, Jinze Li, Wenhao Yuan, Ziyue Peng, Puzhen Wu, Shujie Li, Jian Chen, Zheng Lin, Edith Ngai</dd>
+<dd> ACM International Conference on Web Search and Data Mining (<strong>WSDm</strong>), 2027</dd>
+</dl>
+
+
+
 <dl>
 <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/IIMRec.png">
-<span class="conference-label">ACM MM 2026 </span>
+<span class="conference-label">ACM MM 2026</span>
 </dt>
 <dd><a href="https://arxiv.org/pdf/2607.24607"><strong>One Graph, Multiple Gains: Single High-Quality Item-Item Graph for Multimodal Recommendation</strong></a></dd>
 <dd><strong>Jinfeng Xu</strong>, Zheyu Chen, Ziyue Peng, Shuo Yang, Jinze Li, Zewei Liu, Shujie Li, Yipeng Du, and Edith Ngai</dd>
-<dd> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2025</dd>
+<dd> ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2026</dd>
 </dl>
 
 
